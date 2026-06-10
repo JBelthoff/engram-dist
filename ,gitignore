@@ -1,0 +1,4 @@
+# Binaries are release assets, never committed to git.
+*.exe
+engram-ingest-*
+SHA256SUMS
